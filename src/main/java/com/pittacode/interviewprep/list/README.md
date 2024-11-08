@@ -1,12 +1,12 @@
-# MyArrayList
+# IntList
 
 ## Exercise Instructions
 
-The `MyArrayList` class is implemented in a series of incremental steps. 
+The `MyIntList` class is implemented in a series of incremental steps. 
 Each step introduces new functionality to the class. 
 Write unit tests for implementing each step to verify that your implementation works correctly.
 Try and commit as often as possible workable units of work (test and implementation) or tests and then their implementations.
-At the end you should have a list implementation that: 
+At the end you should have a list implementation that can store int(s) that: 
 * has a default capacity of 10
 * can have a custom capacity
 * can add and store an element

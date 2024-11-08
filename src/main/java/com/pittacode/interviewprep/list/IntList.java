@@ -1,4 +1,4 @@
 package com.pittacode.interviewprep.list;
 
-public class MyArrayList {
+public class IntList {
 }
